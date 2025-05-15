@@ -40,25 +40,7 @@ A modern, intuitive Android application built with Kotlin to help you manage you
 - **SharedPreferences**: For user preferences
 
 ## 📱 Screenshots
-| Dashboard | Transactions | Budget |
-|-----------|--------------|---------|
-| <img src="screenshots/dashboard.png" width="200"> | <img src="screenshots/transactions.png" width="200"> | <img src="screenshots/budget.png" width="200"> |
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Android Studio Arctic Fox or newer
-- Android SDK 21 or higher
-- Kotlin 1.6.0 or higher
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/finflow.git
-   ```
-2. Open the project in Android Studio
-3. Sync the project with Gradle files
-4. Run the app on your device or emulator
 
 ## 📦 Project Structure
 ```
@@ -77,14 +59,6 @@ The app uses the following key configurations:
 - MPAndroidChart for data visualization
 - Material Design components for UI
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 - Material Design for UI components
