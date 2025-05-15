@@ -71,7 +71,7 @@ The app uses the following key configurations:
 - Material Design components for UI
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 Special thanks to the following tools and libraries:
 
 - [Material Design](https://m3.material.io/) – UI components and guidelines  
